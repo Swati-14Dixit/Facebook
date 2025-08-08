@@ -70,8 +70,7 @@ This project analyzes how the **time of uploading Facebook Live posts** influenc
 
 ## 💻 How to Use
 
-1. **Open the Colab Notebook**:
-   [![Open In Colab](https://colab.research.google.com/drive/1TXYzyhqr6ITkOvKQOyWTAr3VNZ28VypC#scrollTo=0RaqiLU0CoDB)  
+1. **Open the Colab Notebook**:[Open In Colab](https://colab.research.google.com/drive/1TXYzyhqr6ITkOvKQOyWTAr3VNZ28VypC#scrollTo=0RaqiLU0CoDB)  
 
 2. **Upload the Dataset** (`facebook_live_data.csv` or similar)
 
